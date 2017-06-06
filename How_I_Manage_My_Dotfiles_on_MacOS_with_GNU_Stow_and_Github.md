@@ -1,4 +1,4 @@
-# Managing your dotfiles with GNU stow and Github
+# How I Manage My Dotfiles on MacOS with GNU Stow and Github
 
 ## One time setup
 
